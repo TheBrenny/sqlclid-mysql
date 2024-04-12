@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/TheBrenny/sqlclid-mysql#readme",
   "dependencies": {
-    "mysql2": "^2.3.3"
+    "mysql2": "^3.9.4"
   }
 }
